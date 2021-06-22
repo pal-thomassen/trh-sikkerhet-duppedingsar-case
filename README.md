@@ -24,7 +24,7 @@ Selskapet er 2 år gammelt, men har utviklet en helt ny teknologi for panelovner
 
 #### Ønsket funksjonalitet
 
-Siden konkurrentene til Thomassen hotness allerede har smarte panelovner ute på markedet så ønsker Thomassen Hotness at deres ovner minimum tilbyr det samme som konkurrentene. Konkurrentene har allerede smart styring av panelovner (natt, dag-senking og feriemodus) via app til både iOS og Android. Disse appene fungerer også selv om man ikke er hjemme, slik at man f.eks kan skru panelovnene sine i feriemodus selv om man ikke er hjemme.
+Siden konkurrentene til Thomassen hotness allerede har smarte panelovner ute på markedet, ønsker Thomassen Hotness at deres ovner minimum tilbyr det samme som konkurrentene. Konkurrentene har allerede smart styring av panelovner (natt, dag-senking og feriemodus) via app til både iOS og Android. Disse appene fungerer også selv om man ikke er hjemme, slik at man f.eks kan skru panelovnene sine i feriemodus selv om man ikke er hjemme.
 
 På sikt ønsker Thomassen Hotness seg at panelovnene deres kan integreres med eksisternde plattformer, som f.eks Apple Homekit, Google Home og Amazon Alexa, men også være posisjonert til å ta i bruk nye muligheter som vil komme i framtiden. 
 
