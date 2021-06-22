@@ -18,7 +18,7 @@ Oppgavene som skal løses i caset er som følger:
 
 ### Thomassen hotness AS
 
-Thomassen hotness AS er et nyoppstartet selskap som produserer smarte panelovner. De har allerede en generasjon med panelovner på markedet som ikke er smarte, men vanlige panelovner med termostat. Thomassen hotness ønsker nå å ta steget videre og utfordre sine konkurrenter som tilbyr smartovner med appstyring og integrasjon mot blant annet tibber. Bekk er leid inn for å hjelpe Thomassen hotness til å utvikle sine egne smartovner som kan konkurrere med de andre i markedet. De ønsker hjelp å bistand med hele produktet, både sentral infrastruktur og programvare på selve panelovnene.
+Thomassen hotness AS er et nyoppstartet selskap som produserer smarte panelovner. De har allerede en generasjon med panelovner på markedet som ikke er smarte, men vanlige panelovner med termostat. Thomassen hotness ønsker nå å ta steget videre og utfordre sine konkurrenter som tilbyr smartovner med appstyring og integrasjon mot blant annet Tibber. Bekk er leid inn for å hjelpe Thomassen hotness til å utvikle sine egne smartovner som kan konkurrere med de andre i markedet. De ønsker hjelp å bistand med hele produktet, både sentral infrastruktur og programvare på selve panelovnene.
 
 Selskapet er 2 år gammelt, men har utviklet en helt ny teknologi for panelovner som bruker nano-maskiner for å generere varme som bruker 30% mindre strøm enn tradisjonelle panelovner. Dette har gjort selskapet konkurransedyktig i et allerede etablert marked, men det har blitt stilt spørsmål ved brannsikkerheten ved disse ovnene og selskapet har hatt vanskeligheter med å bevise brannsikkerheten og robustheten mot allerede etablerte produkter.
 
