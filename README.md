@@ -3,17 +3,6 @@
 I denne case-oppgaven skal vi jobbe med arkitektur for en fiktiv bedrift. Hensikten med dette er å trene på å lage ulike arkitekturer, med bokser og piler, men også å klare å identifisere hva som er viktig for denne spesielle casen og deres utfordringer og la arkitekturen gjenspeile dette.
 
 Denne formen for case jobbing er inspirert av architecture katas fra boken [Software architecture](https://www.amazon.com/Fundamentals-Software-Architecture-Comprehensive-Characteristics/dp/1492043451) hvor de brukte dette som en måte å trene på å designe ulike software arkitekturer på. 
-
-## Oppgaver
-
-Oppgavene som skal løses i caset er som følger: 
-
-1. Identifiser alle ikke-funksjonelle krav, dette er f.eks skalerbarhet, ytelse, sikkerhet, personvern, forvaltbarhet, brukervennlighet osv. Det er en lang liste med potensielle slike krav, men oppgaven er å identifisere noen få, maks 3-4 stk som er viktige å ha fokus på i arkitekturen. 
-
-2. Designe en programvarearkitektur som ivaretar både de funksjonelle behovene, men også de ikke-funksjonelle behovene som er identifisert overfor. Ting å tenke på her er f.eks: Dataflyt, datalagre/databaser, cacher, frontend, kjøretidsmiljø, nettverkstrafikk, deployment osv.
-
-3. Vi deler opp i grupper på 4-5 stk per gruppe, så kan hver gruppe utføre oppgavene overfor. Så samles vi til plenum diskusjon etterpå hvor hver gruppe får 10 minutter til å presentere sin arkitektur. 
-
 ## Case
 
 ### Thomassen hotness AS
@@ -31,3 +20,13 @@ På sikt ønsker Thomassen Hotness seg at panelovnene deres kan integreres med e
 I framtiden er det også planlagt med flere produkter som skal kunne integreres med de smarte panelovnene, som smarte termometere, sikkerhetskameraer og mulige andre produkter. Alle disse produktene skal fungere sømløst sammen slik at man kan bruke ekstra termometer til å styre når en panelovn skal starte eller stoppe. 
 
 Thomassen Hotness ser for seg at salgstallene vil akselerere etterhvert som flere oppdager deres nye teknologi og sikkerheten blir bevist overfor forbrukere og skeptikere og ser for seg at antall solgte panelovner vil få en eksponensiell vekst og ønsker også muligheter for å ekspandere internasjonalt dersom de har suksess hjemme i Norge.
+
+## Oppgaver
+
+Oppgavene som skal løses i caset er som følger: 
+
+1. Identifiser alle ikke-funksjonelle krav, dette er f.eks skalerbarhet, ytelse, sikkerhet, personvern, forvaltbarhet, brukervennlighet osv. Det er en lang liste med potensielle slike krav, men oppgaven er å identifisere noen få, maks 3-4 stk som er viktige å ha fokus på i arkitekturen. 
+
+2. Designe en programvarearkitektur som ivaretar både de funksjonelle behovene, men også de ikke-funksjonelle behovene som er identifisert overfor. Ting å tenke på her er f.eks: Dataflyt, datalagre/databaser, cacher, frontend, kjøretidsmiljø, nettverkstrafikk, deployment osv.
+
+3. Vi deler opp i grupper på 4-5 stk per gruppe, så kan hver gruppe utføre oppgavene overfor. Så samles vi til plenum diskusjon etterpå hvor hver gruppe får 10 minutter til å presentere sin arkitektur. 
